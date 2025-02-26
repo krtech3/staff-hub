@@ -167,3 +167,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+# rails projects
+*/vendor/bundle/
